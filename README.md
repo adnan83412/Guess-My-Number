@@ -1,4 +1,5 @@
-Guess My Number Game
+<h1>
+   Guess My Number Game
 Guess My Number is a simple guessing game where the computer randomly selects a number and the player tries to guess it. If the player's guess is higher or lower than the computer's number, the computer provides hints to guide the player towards the correct answer.
 
 How to Play
@@ -40,4 +41,6 @@ License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 Acknowledgments
-Mention any contributors or resources used in the development of the project.
+Mention any contributors or resources used in the development of the project
+  
+</h1>
